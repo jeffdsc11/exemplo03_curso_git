@@ -1,2 +1,3 @@
 testando o novo arquivo
 Adicionando mais texto no meu arquivo
+adicionando mais texto para criar um terceiro commit
